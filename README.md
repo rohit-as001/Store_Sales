@@ -1,4 +1,4 @@
-# Store_Sales
+# Global_Super_Store_Sales
 This Repository has Store sales projects.
 
 
