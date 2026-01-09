@@ -1,8 +1,9 @@
 # Global_Super_Store_Sales
-This Repository has Store sales projects.
+### This Repository has Store sales projects.
 
 
-**Project Overview**
+
+# Project Overview
 
 This project focuses on analyzing the Global Superstore dataset to understand sales performance, profitability, customer behavior, and operational efficiency.
 An interactive dashboard was created to provide business stakeholders with a consolidated view of key metrics such as Sales, Profit, Quantity, and their distribution across Regions, Segments, Categories, Sub-Categories, Payment Modes, and Ship Modes.
@@ -11,7 +12,7 @@ The dashboard enables quick, data-driven decision-making by highlighting trends,
 
 
 
-Key Insights
+# Key Insights
 
 1) Sales Performance
 
@@ -22,8 +23,8 @@ Key Insights
 
 2) Customer Segments
 
-   - Consumer segment contributes the highest sales (~753K), indicating strong individual customer demand.
-   - Corporate follows, while Home Office contributes the least, suggesting potential growth opportunities.
+  - Consumer segment contributes the highest sales (~753K), indicating strong individual customer demand.
+  - Corporate follows, while Home Office contributes the least, suggesting potential growth opportunities.
   
 3) Regional Analysis
 
@@ -46,7 +47,8 @@ Key Insights
   - Some sub-categories show high volume but low profitability, indicating pricing or cost issues.
 
 
-Business Recommendations
+## Business Recommendations
+
 1. Optimize Product Portfolio
   - Focus on high-profit sub-categories like Phones and Chairs.
   - Re-evaluate or bundle low-performing items (Fasteners, Labels, Envelopes).
@@ -66,8 +68,6 @@ Business Recommendations
 5. Payment Experience Enhancement
   - Promote digital and card payments through discounts or cashback offers.
   - Simplify checkout experience to increase online transaction adoption.
-
-
 
 
 Conclusion
